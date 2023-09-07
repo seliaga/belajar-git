@@ -1,1 +1,2 @@
-hello, nama saya seli meow
+hello, nama saya seli meow.
+tempat tinggal saya di cepokojajar.
